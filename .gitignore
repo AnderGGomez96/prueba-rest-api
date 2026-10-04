@@ -1,0 +1,11 @@
+# Compilados y reportes generados por Maven (la evidencia versionada vive en evidencia/)
+target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Configuracion local de herramientas
+.opencode/
+AGENTS.md
