@@ -9,6 +9,8 @@ Pruebas automatizadas de los servicios REST de PetStore (https://petstore.swagge
 
 Implementadas con Karate 2.1.3 sobre JUnit 5, con datos de entrada en JSON, helpers reutilizables y reporte HTML integrado.
 
+El análisis de la solución — por qué Karate, cómo quedó la suite y lo que costó — está en **[conclusiones.md](conclusiones.md)**.
+
 > **Solo necesitas Java 21 y conexión a internet.** Maven no hace falta: el repositorio incluye el Maven Wrapper (`mvnw`), que lo descarga solo la primera vez.
 
 ## Requisitos
